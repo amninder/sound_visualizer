@@ -1,0 +1,1 @@
+swf dimension screen.width-5, screen.height-150
