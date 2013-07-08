@@ -13,7 +13,7 @@ re place the electronice.mp3 with your own path to the file.
 Spectrum
 ==========
 
-ਪ੍ਰੋਜੈਕਟ ਦੀ ਸਾਰਿਯਾੰ ਫ਼ਾਇਲਾੰ ਸ਼ਾਮਿਲ ਹਨ index.html ਨੂੰ ਛਡ ਕੇ। Adobe Flash CS ਚ index.fla ਖੋਲ ਕੇ ਦੋਬਾਰਾ build ਕਰੋ।
+ਏਸ ਪ੍ਰੋਜੈਕਟ ਚ ਸਾਰਿਯਾੰ ਫ਼ਾਇਲਾੰ ਸ਼ਾਮਿਲ ਹਨ index.html ਨੂੰ ਛਡ ਕੇ। Adobe Flash CS ਚ index.fla ਖੋਲ ਕੇ ਦੋਬਾਰਾ build ਕਰੋ। ਜੇ ਕਰ ਤੋਹਾਡੇ computer  ਤੇ  Adobe Flash Player ਹੈ ਤਾ ਤੁਸੀ index.swf ਨੂੰ ਡਬਲ ਕਲਿਕ ਕਰ ਕੇ ਵੀ ਚਲਾ ਸਕਦੇ ਹੋ।
 
 
 -ਅਮਨਿੰਦਰ ਸਿੰਘ ਨਰੋਤਾ
