@@ -10,7 +10,7 @@ re place the electronice.mp3 with you own path to the file (not forgetting to me
 
 
 
-ਪ੍ਰੋਜੈਕਟ ਦੀ ਸਾਰੀਯਾੰ ਫ਼ਾਇਲਾੰ ਸ਼ਾਮਿਲ ਹਨ index.html ਨੂੰ ਛਡ ਕੇ। Adobe Flash CS ਚ index.fla ਖੋਲ ਕੇ ਦੋਬਾਰਾ build ਕਰੋ।
+ਪ੍ਰੋਜੈਕਟ ਦੀ ਸਾਰਿਯਾੰ ਫ਼ਾਇਲਾੰ ਸ਼ਾਮਿਲ ਹਨ index.html ਨੂੰ ਛਡ ਕੇ। Adobe Flash CS ਚ index.fla ਖੋਲ ਕੇ ਦੋਬਾਰਾ build ਕਰੋ।
 
 
 -ਅਮਨਿੰਦਰ ਸਿੰਘ ਨਰੋਤਾ
