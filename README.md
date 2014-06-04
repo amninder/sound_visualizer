@@ -16,7 +16,6 @@ In order to play your own song, mention the file path as mentioned in the line 1
 re place the electronice.mp3 with your own path to the file.
 
 -Amninder Singh Narota
-
 Spectrum
 ==========
 
