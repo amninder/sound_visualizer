@@ -1,5 +1,12 @@
 Spectrum
 ========
+
+<h1>Problem Statement:</h2> It is dynamic graphical representation of sound wave using ActionScript 3.0 which we also call Sound Visualization
+<h2>Highlights:</h2>
+1. It is customisable and users can use their own sound files to generate the results
+2. Designed in AS3 makes it easy to run on all the platforms.
+
+<h2>Usage</h2>
 Open index.html
 
 1. open index.as to read the code
