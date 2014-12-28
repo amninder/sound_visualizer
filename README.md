@@ -3,6 +3,7 @@ Spectrum(Spikes)
 
 #Problem Statement:
 This will render spikes. It is dynamic graphical representation of sound wave using ActionScript 3.0 which we also call Sound Visualization
+
 ##Highlights:
 1. It is customisable and users can use their own sound files to generate the results
 2. Designed in AS3 makes it easy to run on all the platforms.
