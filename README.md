@@ -1,15 +1,13 @@
-Spectrum(Spikes)
+Spectrum - Microphone
 ========
 
 #Problem Statement:
 This will get sound from your microphone and dynamically render the equilizer sound wave using ActionScript 3.0 which we also call Sound Visualization
 
 ##Highlights:
-1. It is customisable and users can use their own sound files to generate the results
-2. Designed in AS3 makes it easy to run on all the platforms.
+1. Designed in AS3 makes it easy to run on all the platforms.
 
 ##Usage
-Open index.html
 
 1. open mic.as to read the code
 2. index.fla is the file you'll be using in the Adobe Flash CS
