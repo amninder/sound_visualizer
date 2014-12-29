@@ -2,7 +2,7 @@ Spectrum(Spikes)
 ========
 
 #Problem Statement:
-This will render spikes. It is dynamic graphical representation of sound wave using ActionScript 3.0 which we also call Sound Visualization
+This will get sound from your microphone and dynamically render the equilizer sound wave using ActionScript 3.0 which we also call Sound Visualization
 
 ##Highlights:
 1. It is customisable and users can use their own sound files to generate the results
@@ -11,11 +11,9 @@ This will render spikes. It is dynamic graphical representation of sound wave us
 ##Usage
 Open index.html
 
-1. open index.as to read the code
+1. open mic.as to read the code
 2. index.fla is the file you'll be using in the Adobe Flash CS
-
-In order to play your own song, mention the file path as mentioned in the line 19 of index.as.
-re place the electronice.mp3 with your own path to the file.
+3. 
 
 -Amninder Singh Narota
 Spectrum
