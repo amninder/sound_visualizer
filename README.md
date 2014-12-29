@@ -13,7 +13,7 @@ Open index.html
 
 1. open mic.as to read the code
 2. index.fla is the file you'll be using in the Adobe Flash CS
-3. 
+3. Run with Command + Return or (I dont remember how to run on windows.)
 
 -Amninder Singh Narota
 Spectrum
